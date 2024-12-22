@@ -1,4 +1,4 @@
-sqlalchemy
-pandas
-pymysql
+SQLAlchemy
 psycopg2-binary
+ucimlrepo 
+pandas
